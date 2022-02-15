@@ -1,4 +1,4 @@
-pipansi2html==1.6.0
+ansi2html==1.6.0
 anyio==2.2.0
 appnope==0.1.2
 argon2-cffi==20.1.0
